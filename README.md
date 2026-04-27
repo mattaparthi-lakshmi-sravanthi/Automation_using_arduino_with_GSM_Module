@@ -101,7 +101,7 @@ Designed and developed a low-cost GSM-based automation system using Arduino Uno 
 ---
 
 ## 📷 Block Diagram
-![Block Diagram](./block_diagram.png)
+![Block Diagram](./image/Arduino_flow_chart.png)
 
 ---
 
